@@ -1,0 +1,400 @@
+{
+  "ip14": [
+    {
+      "id": 1,
+      "name": "iPhone 14 256GB | Chính hãng VNA",
+      "price": "230900000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/p/h/photo_2022-09-28_21-58-51_2.jpg",
+      "link": "detail14.html"
+    }
+  ],
+  "ip14plus": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Plus 256GB | Chính hãng VNA",
+      "price": "22009000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/p/h/photo_2022-09-28_21-58-51_8.jpg",
+      "link": "detail14pl.html"
+    }
+  ],
+  "ip14pro": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro 256GB | Chính hãng VNA",
+      "price": "29009000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m_13.png",
+      "link": "detailpro.html"
+    }
+  ],
+  "ip14propmax": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro Max 256GB | Chính hãng VNA",
+      "price": "28009000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m-iphone-14-pro_2.png",
+      "link": "detailIphone.html"
+    }
+  ],
+  "ip14propmax512": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro Max 512GB | Chính hãng VNA",
+      "price": "29090000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/t/_/t_m-iphone-14-pro_2.png",
+      "link": "detailIphone.html"
+    }
+  ],
+  "ssSmart": [
+    {
+      "id": 1,
+      "name": "Smart Tivi QLED 4K 55 inch Samsung",
+      "price": "12990000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1942/235642/qled-4k-samsung-qa55q65a-221122-040010-550x340.jpg"
+    }
+  ],
+  "smartTVLG": [
+    {
+      "id": 2,
+      "name": "Smart Tivi LG 4K 55 inch",
+      "price": "10990000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1942/278554/smart-lg-4k-55-inch-55uq8000psc-00-550x340.jpg"
+    }
+  ],
+  "smartTVSS4k": [
+    {
+      "id": 3,
+      "name": "Smart Tivi Samsung 4K Crystal UHD 43 inch ",
+      "price": "8910000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1942/235789/led-4k-samsung-ua43au8100-221122-040443-550x340.jpg"
+    }
+  ],
+  "LGInverter649": [
+    {
+      "id": 4,
+      "name": "Tủ lạnh LG Inverter 649 Lít",
+      "price": "19490000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1943/271983/lg-inverter-649-lit-gr-b257wb-1.-600x600.jpg"
+    }
+  ],
+  "SamsungInverter488": [
+    {
+      "id": 5,
+      "name": "Tủ lạnh Samsung Inverter 488 lít",
+      "price": "18990000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1943/236999/samsung-rf48a4000b4-sv-1.-600x600.jpg"
+    }
+  ],
+  "ToshibaInverter180": [
+    {
+      "id": 6,
+      "name": "Tủ lạnh Toshiba Inverter 180 lít",
+      "price": "18990000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1943/202857/toshiba-gr-b22vu-ukg-1-dd-300x300.jpg"
+    }
+  ],
+  "Midea": [
+    {
+      "id": 1,
+      "name": "Máy lạnh Midea Inverter 1 HP",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/2002/217466/midea-msafa-10crdn8-2-550x160.jpg"
+    }
+  ],
+  "Nagakawa": [
+    {
+      "id": 1,
+      "name": "Máy lạnh Nagakawa Inverter 1 HP ",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/2002/235744/nagakawa-nis-c09r2h10-11-550x160.jpg"
+    }
+  ],
+  "LGInverter10": [
+    {
+      "id": 1,
+      "name": "Máy giặt LG Inverter 10.5 kg",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1944/241918/lg-inverter-105-kg-fv1450s3w2-080422-033102-600x600.jpg"
+    }
+  ],
+  "Electrolux": [
+    {
+      "id": 1,
+      "name": "Máy giặt Electrolux Inverter 10 kg ",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1944/303277/may-giat-electrolux-inverter-10-kg-ewf1024m3sb-270223-101210-600x600.jpg"
+    }
+  ],
+  "Delites": [
+    {
+      "id": 1,
+      "name": "Bếp nướng điện Delites BN02 1800W ",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/2063/111452/dien-delites-bn02-111022-115718-600x600.jpg"
+    }
+  ],
+  "Crystal": [
+    {
+      "id": 1,
+      "name": "Nồi cơm nắp rời Crystal 1.8 lít",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/1922/286006/noi-com-nap-roi-crystal-18-lit-ncr1803-150822-095545-600x600.jpg"
+    }
+  ],
+  "SonyHTS40R": [
+    {
+      "id": 1,
+      "name": "Bộ loa thanh Sony HT-S40R 600W",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/2162/273221/dan-am-thanh-sony-ht-s40r-280223-052647-600x600.jpg"
+    }
+  ],
+  "SonyHTS20R": [
+    {
+      "id": 1,
+      "name": "Bộ loa Sony HT-S20R 400W",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/2162/226084/sony-51-ht-s20r-280223-054115-600x600.jpg"
+    }
+  ],
+  "Sanaky260": [
+    {
+      "id": 1,
+      "name": "Tủ đông Sanaky 260 lít",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/166/115068/sanaky-vh-3699w1-300-300x300.jpg"
+    }
+  ],
+  "Sanaky305": [
+    {
+      "id": 1,
+      "name": "Tủ đông Sanaky 305 lít",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/166/115069/sanaky-vh-4099a1-300-300x300.jpg"
+    }
+  ],
+  "Kangaroo": [
+    {
+      "id": 1,
+      "name": "Quạt điều hoà Kangaroo",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/7498/218315/may-lam-mat-khong-khi-kangaroo-kg50f79-201022-050735-600x600.jpg"
+    }
+  ],
+  "Sunhouse": [
+    {
+      "id": 1,
+      "name": "Quạt điều hòa Sunhouse",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/7498/199117/sunhouse-shd7727-kg-201022-050429-600x600.jpg"
+    }
+  ],
+  "SamsungRobot": [
+    {
+      "id": 1,
+      "name": "Robot hút bụi lau nhà Samsung",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/10139/264374/samsung-vr05r5050wk-sv-100423-014048-600x600.jpg"
+    }
+  ],
+  "Ecovacs": [
+    {
+      "id": 1,
+      "name": "Robot hút bụi lau nhà Ecovacs Deebot ",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/10139/303397/lau-nha-ecovacs-deebot-n10-dbx41-220323-015601-600x600.jpg"
+    }
+  ],
+  "Daikiosan": [
+    {
+      "id": 1,
+      "name": "Máy lọc nước RO Daikiosan 10 lõi",
+      "price": "6390000",
+      "img": "https://cdn.tgdd.vn/Products/Images/3385/225533/ro-daikiosan-dxw-42010h-0-600x600-1.jpg"
+    }
+  ],
+  "Mutosi": [
+    {
+      "id": 1,
+      "name": "Máy lọc nước RO Mutosi 9 lõi ",
+      "price": "5590000",
+      "img": "https://cdn.tgdd.vn/Products/Images/3385/233037/ro-mutosi-mp-290sk-9-loi-140223-054510-600x600-1-600x600.jpg"
+    }
+  ],
+  "macbook": [
+    {
+      "id": 1,
+      "name": "Apple MacBook Pro 13 M2 2022 16GB 256GB I Chính hãng Apple Việt Nam",
+      "price": "6390000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/m/a/macbook_pro_m22.png"
+    }
+  ],
+  "ASUSs": [
+    {
+      "id": 1,
+      "name": "Macbook Pro 14 inch 2021 | Chính hãng Apple Việt Nam",
+      "price": "5590000",
+      "img": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/p/r/pro_2021.png"
+    }
+  ],
+  "ip14detail": [
+    {
+      "title1": "iPhone 14 Pro Max cháy hàng ngay trong ngày đầu mở bán",
+      "dayupdate": "(Cập nhật ngày 15/10/2022)",
+      "p": "Chỉ trong ngày đầu mở bán, lượng khách hàng đặt mua iPhone 14 Pro Max tăng đột biến. Trong đó, phiên bản iPhone 14 Pro Max bản 128GB chỉ trong thời gian ngắn nhanh chóng hết hàng, chỉ còn lại các bản 256GB, 512GB và 1TB. Nhiều khách hàng đăng ký sau phải chờ đến đợt giao hàng tiếp theo. Dự kiến tại Việt Nam sẽ xảy ra tình trạng khan hiếm hàng trong tuần đầu trả hàng. Tại CellphoneS, bạn hoàn toàn có thể nhận được ưu đãi cực khủng khi tham gia chương trình thu cũ đổi mới và nhận hoàn tiền từ các đối tác liên kết.",
+      "img": "https://th.bing.com/th/id/R.2366675db19b267ed97dc8c58150480b?rik=PyyEiOMjJ7weHQ&pid=ImgRaw&r=0",
+      "screen": "iPhone 14 Pro Max là smartphone có màn hình tốt nhất",
+      "p0": "Theo nguồn thông tin đáng tin cậy, iPhone 14 Pro Max sở hữu màn hình được chấm điểm lên đến 149. Đây là điểm số cao nhất ở phân khúc sản phẩm cao cấp và là điểm số tốt trên thị trường. Chất lượng hiển thị được đánh giá cao, đặc biệt là khi sử dụng ở ngoài trời với độ sáng tối đa 2000 nit.",
+      "p1": "Đồng thời, nhờ tần số quét cao mà màn hình cũng thích hợp để chơi game, xem phim, hoặc xem video HD. Thêm vào đó, về mặt âm thanh DxOMark còn đánh giá siêu phẩm đến từ nhà Apple thích hợp để nghe nhạc kịch, hoà tấu, kịch nói, xem phim và chơi game. Trong các danh sách sản phẩm có chất lượng âm thanh tốt, iPhone 14 Pro Max xếp hạng nằm ở vị trí thứ 9 với 142 điểm.",
+      "img1": "https://th.bing.com/th/id/R.bca47ac9a2a2dc19acfb2e5028a16840?rik=6HQU%2fz%2bArgsPEw&pid=ImgRaw&r=0",
+      "comment": "Đánh giá iPhone 14 Pro Max - Siêu phẩm khẳng định đẳng cấp",
+      "p3": "Những chiếc điện thoại iPhone 14 2022 được gọi tên trong hàng ngũ siêu phẩm smartphone thế hệ mới bởi công nghệ hàng đầu, thiết kế hoàn hảo cùng nhiều đột phá đáng kinh ngạc. Độ hoàn hảo của thế hệ Flagship mới nhất của Apple được tạo thành từ sự thống nhất giữa các yếu tố thiết kế, màn hình, cấu hình, hệ điều hành, camera, pin và các tính năng cải tiến.",
+      "Dynamic": "Màn hình Dynamic Island - Sự biến mất của màn hình tai thỏ thay thế bằng thiết kế viên thuốc",
+      "p4": "Sau nhiều thế hệ liên tiếp giữ thiết kế tai thỏ, cuối cùng Apple đã có đột phá trong thiết kế để chiều lòng người hâm mộ. Theo đó, ở mặt trước của những chiếc iPhone 14 Pro Max nơi có chiếc tai thỏ quen thuộc này đã được thay thế bằng thiết kế viên thuốc độc đáo. Viên thuốc trên màn hình iPhone 14 Pro Max là nơi chứa camera face ID và camera trước.",
+      "img2": "https://th.bing.com/th/id/R.c51d72c2d5521797b6e50de83fa00b31?rik=iql%2fhDSSmM0K8g&pid=ImgRaw&r=0",
+      "p44": "Thiết kế màn hình Dynamic Island mới này sẽ đưa các thông báo vào trong thiết kế viên thuốc để các hoạt động trên màn hình diễn ra liền mạch. Cụ thể các thông báo cuộc gọi, nghẹ sẽ được thích hợp vào trong thiết kế mới này và người dùng có thể thực hiện các thao tác chạm vuốt mở rộng, trở về trang chủ khi cần thiết. Cảm biến tiện cậm được Apple thiết kế lại và di chuyển ra phía sau màn hình nhờ đó mang lại không gian hiển thị rộng hơn. Camera TrueDepth cũng được thiết kế nhỏ hơn tới 31% so với thế hệ tiền nhiệm.",
+      "always": "Màn hình Dynamic Island OLED 6,7 inch, hỗ trợ always-on display",
+      "p5": "Sự thành công của thiết kế màn hình đến từ những chiếc điện thoại iPhone 13 pro mã là điểm nhấn khiến sự chú ý dồn vào những chiếc điện thoại thế hệ mới của Apple. Những “quả táo chín” lần này đến từ công ty công nghệ hàng đầu thế giới có kích thước 6,7 inch và được trang bị tấm nền OLED M12 cực sắc nét. Đặc biệt, Apple còn trang bị cho màn hình iPhone 14 Pro Max tính năng tự động giảm sáng khi thiết bị được đút trong túi hoặc úp xuống mặt bàn để tiết kiệm pin. Độ phân giải được ghi nhận của những chiếc điện thoại này đạt mức 2796 ‑ x 1290 pixel sẵn sàng cho ra những khung hình chất lượng đến từng micro micrometer. Tần số quét 120Hz ấn tượng vẫn được giữ nguyên trên tấm màn này cùng mật độ điểm ảnh cao khiến trải nghiệm lướt, quét trên iPhone 14 Pro Max diễn ra như một giấc mộng tuyệt vời.",
+      "img3": "https://bgr.com/wp-content/uploads/2022/03/iphone-14-pro-3d-renders-2.jpg?quality=82&strip=all",
+      "config": "Cấu hình iPhone 14 Pro Max mạnh mẽ, hiệu năng cực khủng từ chipset A16 Bionic",
+      "p6": "Chưa bao giờ Apple đặt ra giới hạn cho bản thân ở hiệu năng cho những thiết kế của mình. Chính bởi vậy nên những con chip A16 Bionic được trang bị cho iPhone 14 Pro Max là điều không có gì đáng ngạc nhiên. Dẫu vậy con chip này vẫn nhận được rất nhiều sự kỳ vọng về những tính năng cải tiến. Con chip Apple A16 Bionic với gần 6 tỷ bóng bán dẫn cũng CPU 6 nhân mang lại khả năng xử lý các tác vụ hiệu quả. Cùng với đó là GPU 5 nhân giúp tăng thêm 50% băng thông bộ nhớ mang lại khả năng xử lý các game đồ họa phức tạp. Con chip A16 Bionic cũng hỗ trợ tiết kiệm điện năng một cách hiệu quả cùng khả năng bảo mật dữ liệu nâng cao với Secure Enclave.",
+      "img4": "https://th.bing.com/th/id/OIP.MY1znUqv0P1uBDnnqmPrPgHaE8?pid=ImgDet&rs=1",
+      "ios": "Hệ điều hành iOS 16 bứt phá công nghệ",
+      "p7": "Ngay từ khi ra mắt trong sự kiện công nghệ WWDC 2022 hệ điều hành iOS 16 đã được giới thiệu cùng với những cải tiến cực lớn mang đậm bản sắc cá nhân hóa cho người sử dụng. Bởi vậy nên khi được trang bị hệ điều hành này, những chiếc điện thoại iPhone 14 Pro Max sẽ mang đến những trải nghiệm cực tối ưu với mỗi người dùng.",
+      "img5": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iphone-14-hands-on-lead.jpg?quality=82&strip=all&w=1600"
+    }
+  ],
+  "configDetail14": [
+    {
+      "Size": "6.7 inches",
+      "techScreen": "Super Retina XDR OLED",
+      "Camera1": "Camera chính: 48 MP, f/1.8, 24mm, 1.22µm, PDAF, OIS.  Camera góc siêu rộng: 12 MP, f/2.2, 13mm, 120˚, 1.4µm, PDAF Camera tele: 12 MP, f/2.8, 77mm (telephoto), PDAF, OIS, 3x optical zoom ,Cảm biến độ sâu TOF 3D LiDAR",
+      "CameraF": "Camera selfie: 12 MP, f/1.9, 23mm, 1/3.6, PDAF",
+      "Chipset": "Apple A16 Bionic 6-core",
+      "RAM": "6 GB",
+      "storage": "128 GB",
+      "Pin": "4.352 mAh",
+      "SIM": "2 SIM (nano‑SIM và eSIM)",
+      "system": "iOS 16",
+      "optionS": "ProMotion 120Hz"
+    }
+  ],
+  "ip14nodetail": [
+    {
+      "title1": "iPhone 14 Pro cháy hàng ngay trong ngày đầu mở bán",
+      "dayupdate": "(Cập nhật ngày 15/10/2022)",
+      "p": "Chỉ trong ngày đầu mở bán, lượng khách hàng đặt mua iPhone 14 Pro Max tăng đột biến. Trong đó, phiên bản iPhone 14 Pro Max bản 128GB chỉ trong thời gian ngắn nhanh chóng hết hàng, chỉ còn lại các bản 256GB, 512GB và 1TB. Nhiều khách hàng đăng ký sau phải chờ đến đợt giao hàng tiếp theo. Dự kiến tại Việt Nam sẽ xảy ra tình trạng khan hiếm hàng trong tuần đầu trả hàng. Tại CellphoneS, bạn hoàn toàn có thể nhận được ưu đãi cực khủng khi tham gia chương trình thu cũ đổi mới và nhận hoàn tiền từ các đối tác liên kết.",
+      "img": "https://th.bing.com/th/id/R.2366675db19b267ed97dc8c58150480b?rik=PyyEiOMjJ7weHQ&pid=ImgRaw&r=0",
+      "screen": "iPhone 14 Pro Max là smartphone có màn hình tốt nhất",
+      "p0": "Theo nguồn thông tin đáng tin cậy, iPhone 14 Pro Max sở hữu màn hình được chấm điểm lên đến 149. Đây là điểm số cao nhất ở phân khúc sản phẩm cao cấp và là điểm số tốt trên thị trường. Chất lượng hiển thị được đánh giá cao, đặc biệt là khi sử dụng ở ngoài trời với độ sáng tối đa 2000 nit.",
+      "p1": "Đồng thời, nhờ tần số quét cao mà màn hình cũng thích hợp để chơi game, xem phim, hoặc xem video HD. Thêm vào đó, về mặt âm thanh DxOMark còn đánh giá siêu phẩm đến từ nhà Apple thích hợp để nghe nhạc kịch, hoà tấu, kịch nói, xem phim và chơi game. Trong các danh sách sản phẩm có chất lượng âm thanh tốt, iPhone 14 Pro Max xếp hạng nằm ở vị trí thứ 9 với 142 điểm.",
+      "img1": "https://th.bing.com/th/id/R.bca47ac9a2a2dc19acfb2e5028a16840?rik=6HQU%2fz%2bArgsPEw&pid=ImgRaw&r=0",
+      "comment": "Đánh giá iPhone 14 Pro Max - Siêu phẩm khẳng định đẳng cấp",
+      "p3": "Những chiếc điện thoại iPhone 14 2022 được gọi tên trong hàng ngũ siêu phẩm smartphone thế hệ mới bởi công nghệ hàng đầu, thiết kế hoàn hảo cùng nhiều đột phá đáng kinh ngạc. Độ hoàn hảo của thế hệ Flagship mới nhất của Apple được tạo thành từ sự thống nhất giữa các yếu tố thiết kế, màn hình, cấu hình, hệ điều hành, camera, pin và các tính năng cải tiến.",
+      "Dynamic": "Màn hình Dynamic Island - Sự biến mất của màn hình tai thỏ thay thế bằng thiết kế viên thuốc",
+      "p4": "Sau nhiều thế hệ liên tiếp giữ thiết kế tai thỏ, cuối cùng Apple đã có đột phá trong thiết kế để chiều lòng người hâm mộ. Theo đó, ở mặt trước của những chiếc iPhone 14 Pro Max nơi có chiếc tai thỏ quen thuộc này đã được thay thế bằng thiết kế viên thuốc độc đáo. Viên thuốc trên màn hình iPhone 14 Pro Max là nơi chứa camera face ID và camera trước.",
+      "img2": "https://th.bing.com/th/id/R.c51d72c2d5521797b6e50de83fa00b31?rik=iql%2fhDSSmM0K8g&pid=ImgRaw&r=0",
+      "p44": "Thiết kế màn hình Dynamic Island mới này sẽ đưa các thông báo vào trong thiết kế viên thuốc để các hoạt động trên màn hình diễn ra liền mạch. Cụ thể các thông báo cuộc gọi, nghẹ sẽ được thích hợp vào trong thiết kế mới này và người dùng có thể thực hiện các thao tác chạm vuốt mở rộng, trở về trang chủ khi cần thiết. Cảm biến tiện cậm được Apple thiết kế lại và di chuyển ra phía sau màn hình nhờ đó mang lại không gian hiển thị rộng hơn. Camera TrueDepth cũng được thiết kế nhỏ hơn tới 31% so với thế hệ tiền nhiệm.",
+      "always": "Màn hình Dynamic Island OLED 6,7 inch, hỗ trợ always-on display",
+      "p5": "Sự thành công của thiết kế màn hình đến từ những chiếc điện thoại iPhone 13 pro mã là điểm nhấn khiến sự chú ý dồn vào những chiếc điện thoại thế hệ mới của Apple. Những “quả táo chín” lần này đến từ công ty công nghệ hàng đầu thế giới có kích thước 6,7 inch và được trang bị tấm nền OLED M12 cực sắc nét. Đặc biệt, Apple còn trang bị cho màn hình iPhone 14 Pro Max tính năng tự động giảm sáng khi thiết bị được đút trong túi hoặc úp xuống mặt bàn để tiết kiệm pin. Độ phân giải được ghi nhận của những chiếc điện thoại này đạt mức 2796 ‑ x 1290 pixel sẵn sàng cho ra những khung hình chất lượng đến từng micro micrometer. Tần số quét 120Hz ấn tượng vẫn được giữ nguyên trên tấm màn này cùng mật độ điểm ảnh cao khiến trải nghiệm lướt, quét trên iPhone 14 Pro Max diễn ra như một giấc mộng tuyệt vời.",
+      "img3": "https://bgr.com/wp-content/uploads/2022/03/iphone-14-pro-3d-renders-2.jpg?quality=82&strip=all",
+      "config": "Cấu hình iPhone 14 Pro Max mạnh mẽ, hiệu năng cực khủng từ chipset A16 Bionic",
+      "p6": "Chưa bao giờ Apple đặt ra giới hạn cho bản thân ở hiệu năng cho những thiết kế của mình. Chính bởi vậy nên những con chip A16 Bionic được trang bị cho iPhone 14 Pro Max là điều không có gì đáng ngạc nhiên. Dẫu vậy con chip này vẫn nhận được rất nhiều sự kỳ vọng về những tính năng cải tiến. Con chip Apple A16 Bionic với gần 6 tỷ bóng bán dẫn cũng CPU 6 nhân mang lại khả năng xử lý các tác vụ hiệu quả. Cùng với đó là GPU 5 nhân giúp tăng thêm 50% băng thông bộ nhớ mang lại khả năng xử lý các game đồ họa phức tạp. Con chip A16 Bionic cũng hỗ trợ tiết kiệm điện năng một cách hiệu quả cùng khả năng bảo mật dữ liệu nâng cao với Secure Enclave.",
+      "img4": "https://th.bing.com/th/id/OIP.MY1znUqv0P1uBDnnqmPrPgHaE8?pid=ImgDet&rs=1",
+      "ios": "Hệ điều hành iOS 16 bứt phá công nghệ",
+      "p7": "Ngay từ khi ra mắt trong sự kiện công nghệ WWDC 2022 hệ điều hành iOS 16 đã được giới thiệu cùng với những cải tiến cực lớn mang đậm bản sắc cá nhân hóa cho người sử dụng. Bởi vậy nên khi được trang bị hệ điều hành này, những chiếc điện thoại iPhone 14 Pro Max sẽ mang đến những trải nghiệm cực tối ưu với mỗi người dùng.",
+      "img5": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iphone-14-hands-on-lead.jpg?quality=82&strip=all&w=1600"
+    }
+  ],
+  "ip14pldetail": [
+    {
+      "title1": "iPhone 14 Plus cháy hàng ngay trong ngày đầu mở bán",
+      "dayupdate": "(Cập nhật ngày 15/10/2022)",
+      "p": "Chỉ trong ngày đầu mở bán, lượng khách hàng đặt mua iPhone 14 Pro Max tăng đột biến. Trong đó, phiên bản iPhone 14 Pro Max bản 128GB chỉ trong thời gian ngắn nhanh chóng hết hàng, chỉ còn lại các bản 256GB, 512GB và 1TB. Nhiều khách hàng đăng ký sau phải chờ đến đợt giao hàng tiếp theo. Dự kiến tại Việt Nam sẽ xảy ra tình trạng khan hiếm hàng trong tuần đầu trả hàng. Tại CellphoneS, bạn hoàn toàn có thể nhận được ưu đãi cực khủng khi tham gia chương trình thu cũ đổi mới và nhận hoàn tiền từ các đối tác liên kết.",
+      "img": "https://th.bing.com/th/id/R.2366675db19b267ed97dc8c58150480b?rik=PyyEiOMjJ7weHQ&pid=ImgRaw&r=0",
+      "screen": "iPhone 14 Plus là smartphone có màn hình tốt nhất",
+      "p0": "Theo nguồn thông tin đáng tin cậy, iPhone 14 Pro Max sở hữu màn hình được chấm điểm lên đến 149. Đây là điểm số cao nhất ở phân khúc sản phẩm cao cấp và là điểm số tốt trên thị trường. Chất lượng hiển thị được đánh giá cao, đặc biệt là khi sử dụng ở ngoài trời với độ sáng tối đa 2000 nit.",
+      "p1": "Đồng thời, nhờ tần số quét cao mà màn hình cũng thích hợp để chơi game, xem phim, hoặc xem video HD. Thêm vào đó, về mặt âm thanh DxOMark còn đánh giá siêu phẩm đến từ nhà Apple thích hợp để nghe nhạc kịch, hoà tấu, kịch nói, xem phim và chơi game. Trong các danh sách sản phẩm có chất lượng âm thanh tốt, iPhone 14 Pro Max xếp hạng nằm ở vị trí thứ 9 với 142 điểm.",
+      "img1": "https://th.bing.com/th/id/R.bca47ac9a2a2dc19acfb2e5028a16840?rik=6HQU%2fz%2bArgsPEw&pid=ImgRaw&r=0",
+      "comment": "Đánh giá iPhone 14 Pro Max - Siêu phẩm khẳng định đẳng cấp",
+      "p3": "Những chiếc điện thoại iPhone 14 2022 được gọi tên trong hàng ngũ siêu phẩm smartphone thế hệ mới bởi công nghệ hàng đầu, thiết kế hoàn hảo cùng nhiều đột phá đáng kinh ngạc. Độ hoàn hảo của thế hệ Flagship mới nhất của Apple được tạo thành từ sự thống nhất giữa các yếu tố thiết kế, màn hình, cấu hình, hệ điều hành, camera, pin và các tính năng cải tiến.",
+      "Dynamic": "Màn hình Dynamic Island - Sự biến mất của màn hình tai thỏ thay thế bằng thiết kế viên thuốc",
+      "p4": "Sau nhiều thế hệ liên tiếp giữ thiết kế tai thỏ, cuối cùng Apple đã có đột phá trong thiết kế để chiều lòng người hâm mộ. Theo đó, ở mặt trước của những chiếc iPhone 14 Pro Max nơi có chiếc tai thỏ quen thuộc này đã được thay thế bằng thiết kế viên thuốc độc đáo. Viên thuốc trên màn hình iPhone 14 Pro Max là nơi chứa camera face ID và camera trước.",
+      "img2": "https://th.bing.com/th/id/R.c51d72c2d5521797b6e50de83fa00b31?rik=iql%2fhDSSmM0K8g&pid=ImgRaw&r=0",
+      "p44": "Thiết kế màn hình Dynamic Island mới này sẽ đưa các thông báo vào trong thiết kế viên thuốc để các hoạt động trên màn hình diễn ra liền mạch. Cụ thể các thông báo cuộc gọi, nghẹ sẽ được thích hợp vào trong thiết kế mới này và người dùng có thể thực hiện các thao tác chạm vuốt mở rộng, trở về trang chủ khi cần thiết. Cảm biến tiện cậm được Apple thiết kế lại và di chuyển ra phía sau màn hình nhờ đó mang lại không gian hiển thị rộng hơn. Camera TrueDepth cũng được thiết kế nhỏ hơn tới 31% so với thế hệ tiền nhiệm.",
+      "always": "Màn hình Dynamic Island OLED 6,7 inch, hỗ trợ always-on display",
+      "p5": "Sự thành công của thiết kế màn hình đến từ những chiếc điện thoại iPhone 13 pro mã là điểm nhấn khiến sự chú ý dồn vào những chiếc điện thoại thế hệ mới của Apple. Những “quả táo chín” lần này đến từ công ty công nghệ hàng đầu thế giới có kích thước 6,7 inch và được trang bị tấm nền OLED M12 cực sắc nét. Đặc biệt, Apple còn trang bị cho màn hình iPhone 14 Pro Max tính năng tự động giảm sáng khi thiết bị được đút trong túi hoặc úp xuống mặt bàn để tiết kiệm pin. Độ phân giải được ghi nhận của những chiếc điện thoại này đạt mức 2796 ‑ x 1290 pixel sẵn sàng cho ra những khung hình chất lượng đến từng micro micrometer. Tần số quét 120Hz ấn tượng vẫn được giữ nguyên trên tấm màn này cùng mật độ điểm ảnh cao khiến trải nghiệm lướt, quét trên iPhone 14 Pro Max diễn ra như một giấc mộng tuyệt vời.",
+      "img3": "https://bgr.com/wp-content/uploads/2022/03/iphone-14-pro-3d-renders-2.jpg?quality=82&strip=all",
+      "config": "Cấu hình iPhone 14 Pro Max mạnh mẽ, hiệu năng cực khủng từ chipset A16 Bionic",
+      "p6": "Chưa bao giờ Apple đặt ra giới hạn cho bản thân ở hiệu năng cho những thiết kế của mình. Chính bởi vậy nên những con chip A16 Bionic được trang bị cho iPhone 14 Pro Max là điều không có gì đáng ngạc nhiên. Dẫu vậy con chip này vẫn nhận được rất nhiều sự kỳ vọng về những tính năng cải tiến. Con chip Apple A16 Bionic với gần 6 tỷ bóng bán dẫn cũng CPU 6 nhân mang lại khả năng xử lý các tác vụ hiệu quả. Cùng với đó là GPU 5 nhân giúp tăng thêm 50% băng thông bộ nhớ mang lại khả năng xử lý các game đồ họa phức tạp. Con chip A16 Bionic cũng hỗ trợ tiết kiệm điện năng một cách hiệu quả cùng khả năng bảo mật dữ liệu nâng cao với Secure Enclave.",
+      "img4": "https://th.bing.com/th/id/OIP.MY1znUqv0P1uBDnnqmPrPgHaE8?pid=ImgDet&rs=1",
+      "ios": "Hệ điều hành iOS 16 bứt phá công nghệ",
+      "p7": "Ngay từ khi ra mắt trong sự kiện công nghệ WWDC 2022 hệ điều hành iOS 16 đã được giới thiệu cùng với những cải tiến cực lớn mang đậm bản sắc cá nhân hóa cho người sử dụng. Bởi vậy nên khi được trang bị hệ điều hành này, những chiếc điện thoại iPhone 14 Pro Max sẽ mang đến những trải nghiệm cực tối ưu với mỗi người dùng.",
+      "img5": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iphone-14-hands-on-lead.jpg?quality=82&strip=all&w=1600"
+    }
+  ],
+  "ip14thdetail": [
+    {
+      "title1": "iPhone 14 cháy hàng ngay trong ngày đầu mở bán",
+      "dayupdate": "(Cập nhật ngày 15/10/2022)",
+      "p": "Chỉ trong ngày đầu mở bán, lượng khách hàng đặt mua iPhone 14 Pro Max tăng đột biến. Trong đó, phiên bản iPhone 14 Pro Max bản 128GB chỉ trong thời gian ngắn nhanh chóng hết hàng, chỉ còn lại các bản 256GB, 512GB và 1TB. Nhiều khách hàng đăng ký sau phải chờ đến đợt giao hàng tiếp theo. Dự kiến tại Việt Nam sẽ xảy ra tình trạng khan hiếm hàng trong tuần đầu trả hàng. Tại CellphoneS, bạn hoàn toàn có thể nhận được ưu đãi cực khủng khi tham gia chương trình thu cũ đổi mới và nhận hoàn tiền từ các đối tác liên kết.",
+      "img": "https://th.bing.com/th/id/R.2366675db19b267ed97dc8c58150480b?rik=PyyEiOMjJ7weHQ&pid=ImgRaw&r=0",
+      "screen": "iPhone 14 là smartphone có màn hình tốt nhất",
+      "p0": "Theo nguồn thông tin đáng tin cậy, iPhone 14 Pro Max sở hữu màn hình được chấm điểm lên đến 149. Đây là điểm số cao nhất ở phân khúc sản phẩm cao cấp và là điểm số tốt trên thị trường. Chất lượng hiển thị được đánh giá cao, đặc biệt là khi sử dụng ở ngoài trời với độ sáng tối đa 2000 nit.",
+      "p1": "Đồng thời, nhờ tần số quét cao mà màn hình cũng thích hợp để chơi game, xem phim, hoặc xem video HD. Thêm vào đó, về mặt âm thanh DxOMark còn đánh giá siêu phẩm đến từ nhà Apple thích hợp để nghe nhạc kịch, hoà tấu, kịch nói, xem phim và chơi game. Trong các danh sách sản phẩm có chất lượng âm thanh tốt, iPhone 14 Pro Max xếp hạng nằm ở vị trí thứ 9 với 142 điểm.",
+      "img1": "https://th.bing.com/th/id/R.bca47ac9a2a2dc19acfb2e5028a16840?rik=6HQU%2fz%2bArgsPEw&pid=ImgRaw&r=0",
+      "comment": "Đánh giá iPhone 14 Pro Max - Siêu phẩm khẳng định đẳng cấp",
+      "p3": "Những chiếc điện thoại iPhone 14 2022 được gọi tên trong hàng ngũ siêu phẩm smartphone thế hệ mới bởi công nghệ hàng đầu, thiết kế hoàn hảo cùng nhiều đột phá đáng kinh ngạc. Độ hoàn hảo của thế hệ Flagship mới nhất của Apple được tạo thành từ sự thống nhất giữa các yếu tố thiết kế, màn hình, cấu hình, hệ điều hành, camera, pin và các tính năng cải tiến.",
+      "Dynamic": "Màn hình Dynamic Island - Sự biến mất của màn hình tai thỏ thay thế bằng thiết kế viên thuốc",
+      "p4": "Sau nhiều thế hệ liên tiếp giữ thiết kế tai thỏ, cuối cùng Apple đã có đột phá trong thiết kế để chiều lòng người hâm mộ. Theo đó, ở mặt trước của những chiếc iPhone 14 Pro Max nơi có chiếc tai thỏ quen thuộc này đã được thay thế bằng thiết kế viên thuốc độc đáo. Viên thuốc trên màn hình iPhone 14 Pro Max là nơi chứa camera face ID và camera trước.",
+      "img2": "https://th.bing.com/th/id/R.c51d72c2d5521797b6e50de83fa00b31?rik=iql%2fhDSSmM0K8g&pid=ImgRaw&r=0",
+      "p44": "Thiết kế màn hình Dynamic Island mới này sẽ đưa các thông báo vào trong thiết kế viên thuốc để các hoạt động trên màn hình diễn ra liền mạch. Cụ thể các thông báo cuộc gọi, nghẹ sẽ được thích hợp vào trong thiết kế mới này và người dùng có thể thực hiện các thao tác chạm vuốt mở rộng, trở về trang chủ khi cần thiết. Cảm biến tiện cậm được Apple thiết kế lại và di chuyển ra phía sau màn hình nhờ đó mang lại không gian hiển thị rộng hơn. Camera TrueDepth cũng được thiết kế nhỏ hơn tới 31% so với thế hệ tiền nhiệm.",
+      "always": "Màn hình Dynamic Island OLED 6,7 inch, hỗ trợ always-on display",
+      "p5": "Sự thành công của thiết kế màn hình đến từ những chiếc điện thoại iPhone 13 pro mã là điểm nhấn khiến sự chú ý dồn vào những chiếc điện thoại thế hệ mới của Apple. Những “quả táo chín” lần này đến từ công ty công nghệ hàng đầu thế giới có kích thước 6,7 inch và được trang bị tấm nền OLED M12 cực sắc nét. Đặc biệt, Apple còn trang bị cho màn hình iPhone 14 Pro Max tính năng tự động giảm sáng khi thiết bị được đút trong túi hoặc úp xuống mặt bàn để tiết kiệm pin. Độ phân giải được ghi nhận của những chiếc điện thoại này đạt mức 2796 ‑ x 1290 pixel sẵn sàng cho ra những khung hình chất lượng đến từng micro micrometer. Tần số quét 120Hz ấn tượng vẫn được giữ nguyên trên tấm màn này cùng mật độ điểm ảnh cao khiến trải nghiệm lướt, quét trên iPhone 14 Pro Max diễn ra như một giấc mộng tuyệt vời.",
+      "img3": "https://bgr.com/wp-content/uploads/2022/03/iphone-14-pro-3d-renders-2.jpg?quality=82&strip=all",
+      "config": "Cấu hình iPhone 14 Pro Max mạnh mẽ, hiệu năng cực khủng từ chipset A16 Bionic",
+      "p6": "Chưa bao giờ Apple đặt ra giới hạn cho bản thân ở hiệu năng cho những thiết kế của mình. Chính bởi vậy nên những con chip A16 Bionic được trang bị cho iPhone 14 Pro Max là điều không có gì đáng ngạc nhiên. Dẫu vậy con chip này vẫn nhận được rất nhiều sự kỳ vọng về những tính năng cải tiến. Con chip Apple A16 Bionic với gần 6 tỷ bóng bán dẫn cũng CPU 6 nhân mang lại khả năng xử lý các tác vụ hiệu quả. Cùng với đó là GPU 5 nhân giúp tăng thêm 50% băng thông bộ nhớ mang lại khả năng xử lý các game đồ họa phức tạp. Con chip A16 Bionic cũng hỗ trợ tiết kiệm điện năng một cách hiệu quả cùng khả năng bảo mật dữ liệu nâng cao với Secure Enclave.",
+      "img4": "https://th.bing.com/th/id/OIP.MY1znUqv0P1uBDnnqmPrPgHaE8?pid=ImgDet&rs=1",
+      "ios": "Hệ điều hành iOS 16 bứt phá công nghệ",
+      "p7": "Ngay từ khi ra mắt trong sự kiện công nghệ WWDC 2022 hệ điều hành iOS 16 đã được giới thiệu cùng với những cải tiến cực lớn mang đậm bản sắc cá nhân hóa cho người sử dụng. Bởi vậy nên khi được trang bị hệ điều hành này, những chiếc điện thoại iPhone 14 Pro Max sẽ mang đến những trải nghiệm cực tối ưu với mỗi người dùng.",
+      "img5": "https://9to5mac.com/wp-content/uploads/sites/6/2022/09/iphone-14-hands-on-lead.jpg?quality=82&strip=all&w=1600"
+    }
+  ],
+  "new1": [
+    {
+      "id": 1,
+      "name": "Xuất hiện hình ảnh thực tế của ASUS ROG Phone 89999",
+      "img": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/03/h732-3.png",
+      "title": "ROG Phone 7 series sẽ có màn hình 6.78-inch 1080p E4 AMOLED với tần số 165Hz, pin 6,000mAh và sạc nhanh 65W. Về thông số camera thì dự đoán phía sau máy sẽ có ba ống kính với camera chính cảm biến 50MP IMX766, camera góc siêu rộng 13MP, camera macro 5MP và camera selfie 32MP."
+    },
+    {
+      "id": 1,
+      "name": "Xuất hiện hình ảnh thực tế của ASUS ROG Phone 7",
+      "img": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/03/h732-3.png",
+      "title": "ROG Phone 7 series sẽ có màn hình 6.78-inch 1080p E4 AMOLED với tần số 165Hz, pin 6,000mAh và sạc nhanh 65W. Về thông số camera thì dự đoán phía sau máy sẽ có ba ống kính với camera chính cảm biến 50MP IMX766, camera góc siêu rộng 13MP, camera macro 5MP và camera selfie 32MP."
+    },
+    {
+      "id": 1,
+      "name": "Xuất hiện hình ảnh thực tế của ASUS ROG Phone 7",
+      "img": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/03/h732-3.png",
+      "title": "ROG Phone 7 series sẽ có màn hình 6.78-inch 1080p E4 AMOLED với tần số 165Hz, pin 6,000mAh và sạc nhanh 65W. Về thông số camera thì dự đoán phía sau máy sẽ có ba ống kính với camera chính cảm biến 50MP IMX766, camera góc siêu rộng 13MP, camera macro 5MP và camera selfie 32MP."
+    },
+    {
+      "id": 1,
+      "name": "Xuất hiện hình ảnh thực tế của ASUS ROG Phone 7",
+      "img": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/03/h732-3.png",
+      "title": "ROG Phone 7 series sẽ có màn hình 6.78-inch 1080p E4 AMOLED với tần số 165Hz, pin 6,000mAh và sạc nhanh 65W. Về thông số camera thì dự đoán phía sau máy sẽ có ba ống kính với camera chính cảm biến 50MP IMX766, camera góc siêu rộng 13MP, camera macro 5MP và camera selfie 32MP."
+    },
+    {
+      "id": 1,
+      "name": "Xuất hiện hình ảnh thực tế của ASUS ROG Phone 7",
+      "img": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/03/h732-3.png",
+      "title": "ROG Phone 7 series sẽ có màn hình 6.78-inch 1080p E4 AMOLED với tần số 165Hz, pin 6,000mAh và sạc nhanh 65W. Về thông số camera thì dự đoán phía sau máy sẽ có ba ống kính với camera chính cảm biến 50MP IMX766, camera góc siêu rộng 13MP, camera macro 5MP và camera selfie 32MP."
+    },
+    {
+      "id": 1,
+      "name": "Xuất hiện hình ảnh thực tế của ASUS ROG Phone 7",
+      "img": "https://cdn.sforum.vn/sforum/wp-content/uploads/2023/03/h732-3.png",
+      "title": "ROG Phone 7 series sẽ có màn hình 6.78-inch 1080p E4 AMOLED với tần số 165Hz, pin 6,000mAh và sạc nhanh 65W. Về thông số camera thì dự đoán phía sau máy sẽ có ba ống kính với camera chính cảm biến 50MP IMX766, camera góc siêu rộng 13MP, camera macro 5MP và camera selfie 32MP."
+    }
+  ]
+}

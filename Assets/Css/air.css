@@ -1,0 +1,11 @@
+#list-m img,
+#list-n img {
+    width: 195px;
+    margin-left: -1px;
+}
+
+#list-m .product-title,
+#list-n .product-title {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}

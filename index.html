@@ -1,0 +1,373 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="Assets/Js/bootstrap-5.1.3-dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="Assets/Css/home.css">
+    <title>Home</title>
+    <style>
+        .to-top {
+            background: white;
+            position: fixed;
+            bottom: 16px;
+            right: 32px;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            color: #1f1f1f;
+            text-decoration: none;
+            opacity: 0;
+            pointer-events: none;
+            transition: all .4s;
+        }
+
+        .to-top.active {
+            bottom: 32px;
+            pointer-events: auto;
+            opacity: 1;
+        }
+    </style>
+</head>
+
+<body style="background-color: #f5f5fa;">
+    <div class="container logoandacc d-flex" style="justify-content: space-between;">
+        <a href="index.html"><img src="Assets/Img/e15d94d5478c4fc4bf62bab8dd0fa786-removebg-preview.png" alt=""></a>
+        <div class="icon ">
+            <ul style="display: flex;">
+                <li><a href="news.html"><i class='bx bxs-bell-ring'></i></a></li>
+                <li><a href="SignupSignin.html"><i class='bx bx-user'></i></a></li>
+                <li><i id="cart-icon" class='bx bxs-shopping-bags'></i>
+                    <!-- cart -->
+                    <div class="cart">
+                        <h2 class="cart-title">Giỏ hàng </h2>
+
+                        <!-- content -->
+                        <div class="cart-content">
+                            <!-- test box -->
+                            <div class="cart-box">
+                                <img src="Assets/Img/ihpne14/b_c_1_9.webp" alt="" class="cart-img">
+                                <div class="detail-box">
+                                    <div class="cart-product-title">iPhone 14 Pro Max 128GB | Chính hãng VN/A</div>
+                                    <div class="cart-price">27490000 ₫</div>
+                                    <input style="width: 50px;" type="number" value="1" class="cart-quantity">
+                                </div>
+
+
+                                <!-- remove cart -->
+                                <i style="color: black;" class='bx bx-message-rounded-x cart-remove'></i>
+
+                            </div>
+                        </div>
+
+                        <!-- total -->
+                        <div class="total">
+                            <div class="total-title">Tổng cộng</div>
+                            <div class="total-price">$0</div>
+                        </div>
+
+                        <!-- Buy button -->
+                        <button type="button" class="btn-buy">Mua ngay</button>
+
+                        <!-- cart close-->
+                        <i class='bx bx-x' id="cart-close"></i>
+                    </div>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="nav">
+        <nav>
+            <div class="wrapper" id="logoProduct">
+                <ul class="nav-links">
+                    <li>
+                        <a href="index.html">Tất cả danh mục |</a>
+                        <div class="mega-box">
+                            <div class="content">
+                                <div class="main">
+                                    <ul class="mega-links">
+                                        <li>
+
+                                            <i class='bx bx-fridge'></i><a href="tv.html">Tivi, loa, dàn karaoke</a>
+                                        </li>
+                                        <li><i class='bx bx-tv'></i><a href="fridge.html">Tủ đông, Tủ mát, Tủ lạnh</a></li>
+                                        <li><i class='bx bxs-washer'></i><a href="airCondition.html">Máy lạnh, Máy giặt, Máy
+                                                sấy</a></li>
+                                        <li><i class='bx bxs-hot'></i><a href="fan.html">Máy nước nóng, Quạt điều hòa </a>
+                                        </li>
+                                        <li><i class='bx bx-bowl-rice'></i><a href="homepro.html">Điện gia dụng</a></li>
+                                        <li><i class='bx bxs-washer'></i><a href="robot.html">Máy rửa chén, Máy hút bụi</a>
+                                        </li>
+                                        <li><i class='bx bxs-washer'></i><a href="waterfilter.html">Lọc nước, Sinh tố, xay ép</a>
+                                        </li>
+                                        <li><i class='bx bxs-phone'></i><a href="phone.html">Điện thoại, laptop</a></li>
+                                        <li><i class='bx bx-headphone'></i><a href="">Tủ đông</a></li>
+                                        <li><i class='bx bxs-user-check'></i><a href="">Dịch vụ hữu ích</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <a href="tv.html">TV</a>
+                    </li>
+
+                    <li><a href="fridge.html">Tủ lạnh </a></li>
+                    <li><a href="airCondition.html">Điều hòa </a></li>
+                    <li><a href="wash.html">Máy giặt </a></li>
+                    <li><a href="homepro.html">Gia dụng </a></li>
+
+                    <li><a href="speaker.html">Loa</a></li>
+                    <li><a href="freeze.html">Tủ đông</a></li>
+
+                    <li><a href="fan.html">Quạt điều hòa </a></li>
+                    <li><a href="robot.html">Robot hút bụi</a></li>
+                    <li><a href="waterfilter.html">Bộ lọc nước</a></li>
+                    <li><a href="phone.html">Điện thoại</a></li>
+                    <li><a href="laptop.html">Laptop</a></li>
+
+
+                </ul>
+            </div>
+        </nav>
+    </div>
+
+
+    <div class="cover">
+        <div class="shop">
+            <div class="visit">
+                <h2>iphone 14 series đã có mặt trên ElectronicSM</h2>
+                <button class="button"><a href="phone.html">Mua ngay</a></button>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="products d-flex">
+        <div class="shop-content" style="margin-left: 100px;">
+            <div class="product-box" id="list-0">
+                <!-- <img src="Assets/Img/OIP.jfif" alt="" class="product-img">
+                <h2 class="product-title">Nike Air Jordan 1 Retro High OG – Heritage</h2>
+                <span class="product-price">$130</span> <br> -->
+            </div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content">
+            <div class="product-box" id="list-1">
+                <!-- <img src="Assets/Img/OIP.jfif" alt="" class="product-img">
+                <h2 class="product-title">Nike Air Jordan 1 Retro High OG – Heritage</h2>
+                <span class="product-price">$130</span> <br> -->
+            </div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content">
+            <div class="product-box" id="list-2">
+                <!-- <img src="Assets/Img/OIP.jfif" alt="" class="product-img">
+                <h2 class="product-title">Nike Air Jordan 1 Retro High OG – Heritage</h2>
+                <span class="product-price">$130</span> <br> -->
+            </div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content">
+            <div class="product-box" id="list-3">
+                <!-- <img src="Assets/Img/OIP.jfif" alt="" class="product-img">
+                <h2 class="product-title">Nike Air Jordan 1 Retro High OG – Heritage</h2>
+                <span class="product-price">$130</span> <br> -->
+            </div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content">
+            <div class="product-box" id="list-4">
+                <!-- <img src="Assets/Img/OIP.jfif" alt="" class="product-img">
+                <h2 class="product-title">Nike Air Jordan 1 Retro High OG – Heritage</h2>
+                <span class="product-price">$130</span> <br> -->
+            </div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="change">
+        <div class="mac">
+            <div class="now-a">
+                <button class="btn"><a href="laptop.html">Mua ngay</a></button>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="products d-flex" style="margin-top: 850px;">
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-00"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-01"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-02"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-03"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-04"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-05"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+
+        
+    </div>
+
+
+
+    <div class="products d-flex" style="margin-top: 50px;">
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-a"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-b"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-c"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-d"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-e"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+        <div class="shop-content sec-2">
+            <div class="product-box" id="list-y"></div>
+            <i class='bx bx-shopping-bag add-cart'></i>
+        </div>
+
+
+        
+    </div>
+
+
+
+    <footer style="background-color: white; margin-top: 30px;">
+        <hr>
+        <div class="b-example-divider"></div>
+
+        <div class="container">
+            <footer class="py-5">
+                <div class="row">
+                    <div class="col-3">
+                        <div id="info">
+                            <h5>ElectronicSM</h5>
+                        </div>
+                        <ul class="nav ">
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">REIMI DESIGN
+                                    STUDIO</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">624, Âu Cơ, phường
+                                    10</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Quận Tân Bình</a></li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">TP. Hồ Chí Minh</a>
+                            </li>
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Việt Nam</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="col-4 offset-5">
+                        <form>
+                            <h5>NEWSLETTER</h5>
+                            <p>Hãy để lại email của bạn để nhận được những ý tưởng trang trí mới và những thông tin, ưu
+                                đãi từ Reimi.
+                            </p>
+                            <div class="w-100 gap-2">
+                                <label for="newsletter1" class="visually-hidden">Email address</label>
+                                <input id="newsletter1" type="text" class="form-control" placeholder="Địa chỉ Email">
+                                <button class="submit col-md-2" type="button"><i class="fas fa-angle-right"></i></button>
+
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="d-flex justify-content-between py-4 my-4 border-top">
+                    <p>Website design by THANHLOIOIOI (NGUYENTHANHLOI)</p>
+                    <ul class="list-unstyled d-flex">
+                        <li>FOLLOW US</li>
+                        <li class="ms-3"><a class="link-dark" href="https://www.instagram.com/thanhloioioi/"><i
+                                    style="font-size: 30px; width: 24; height: 24;" class="fab fa-instagram"></i></a>
+                        </li>
+                        <li class="ms-3"><a class="link-dark" href="https://www.facebook.com/thanhloioioi/"><i
+                                    style="font-size: 30px; width: 24; height: 24;" class="fab fa-facebook"></i></a>
+                        </li>
+                        <li class="ms-3"><a class="link-dark" href="#"><i
+                                    style="font-size: 30px; width: 24; height: 24;" class="fab fa-discord"></i></a></li>
+                    </ul>
+                </div>
+
+
+
+        </div>
+
+    </footer>
+    <a href="#" class="to-top">
+        <i class='bx bx-up-arrow-alt'></i>
+    </a>
+    <script src="Assets/Js/bootstrap-5.1.3-dist/js/bootstrap.min.js"></script>
+    <script src="Assets/Js/addcar.js"></script>
+    <script src="Assets/Js/render.js"></script>
+    <script>
+        const toTop = document.querySelector(".to-top");
+
+        window.addEventListener("scroll", () => {
+            if (window.pageYOffset > 100) {
+                toTop.classList.add("active");
+            } else {
+                toTop.classList.remove("active");
+            }
+        })
+    </script>
+
+</body>
+
+</html>
